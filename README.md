@@ -10,7 +10,6 @@ route : /
         "tag": "bo"
     }
     
-    tweet
 ###  API to show the results are the work is done 
 route : /{hashtag}
 GET method
